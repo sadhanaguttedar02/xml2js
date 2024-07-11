@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <row>
+    <id>2</id>
+    <name>rahul</name>
+    <lastname>dhoni</lastname>
+    <email>Rahul12@gmail.com</email>
+    <salary>30000</salary>
+    <phone>987654321</phone>
+  </row>
+  <row>
+    <id>3</id>
+    <name>Rani</name>
+    <lastname>raigol</lastname>
+    <email>raigol34@gmail.com</email>
+    <salary>60000</salary>
+    <phone>05436758940</phone>
+  </row>
+  <row>
+    <id>4</id>
+    <name>mamta</name>
+    <lastname>jamadar</lastname>
+    <email>mamta23@gmail.com</email>
+    <salary>5000</salary>
+    <phone>09875648398</phone>
+  </row>
+  <row>
+    <id>5</id>
+    <name>rakshita</name>
+    <lastname>dhoni</lastname>
+    <email>Rakshit</email>
+    <salary>49999</salary>
+    <phone>08756478987</phone>
+  </row>
+  <row>
+    <id>6</id>
+    <name>ashok</name>
+    <lastname>dhoni</lastname>
+    <email>ashok@gmail.com</email>
+    <salary>49999</salary>
+    <phone>08756478987</phone>
+  </row>
+</root>
